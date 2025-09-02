@@ -6,7 +6,7 @@ This project contains Node.js scripts that generate analytics and reports from W
 They export results into **CSV** and **JSON** formats so non-technical users and operations teams can easily review the data.
 
 Note: The outputs are already provided.
-To regenerate simply deleet them and run the script.
+To regenerate simply delete them and run the script.
 
 ---
 
