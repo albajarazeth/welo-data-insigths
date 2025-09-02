@@ -5,6 +5,9 @@
 This project contains Node.js scripts that generate analytics and reports from Welo annotation data.  
 They export results into **CSV** and **JSON** formats so non-technical users and operations teams can easily review the data.
 
+Note: The outputs are already provided
+To regeberate simply delet them and run the script 
+
 ---
 
 ## How to Run
