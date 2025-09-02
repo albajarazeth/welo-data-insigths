@@ -1,0 +1,72 @@
+[
+  {
+    "userId": "azEvj",
+    "averageLeadTime": "40.66s",
+    "averageComparisionTime": "-21.70%",
+    "tasksCompleted": 8,
+    "averageAgreementScore": "81.25%"
+  },
+  {
+    "userId": "kabTG",
+    "averageLeadTime": "53.61s",
+    "averageComparisionTime": "3.23%",
+    "tasksCompleted": 5,
+    "averageAgreementScore": "80.00%"
+  },
+  {
+    "userId": "RWIej",
+    "averageLeadTime": "53.86s",
+    "averageComparisionTime": "3.71%",
+    "tasksCompleted": 11,
+    "averageAgreementScore": "77.27%"
+  },
+  {
+    "userId": "xpkWQ",
+    "averageLeadTime": "55.41s",
+    "averageComparisionTime": "6.70%",
+    "tasksCompleted": 9,
+    "averageAgreementScore": "72.22%"
+  },
+  {
+    "userId": "7JMHx",
+    "averageLeadTime": "56.68s",
+    "averageComparisionTime": "9.14%",
+    "tasksCompleted": 8,
+    "averageAgreementScore": "68.75%"
+  },
+  {
+    "userId": "wcLJ8",
+    "averageLeadTime": "58.18s",
+    "averageComparisionTime": "12.03%",
+    "tasksCompleted": 8,
+    "averageAgreementScore": "62.50%"
+  },
+  {
+    "userId": "76lWW",
+    "averageLeadTime": "51.14s",
+    "averageComparisionTime": "-1.52%",
+    "tasksCompleted": 9,
+    "averageAgreementScore": "77.78%"
+  },
+  {
+    "userId": "2w04p",
+    "averageLeadTime": "48.79s",
+    "averageComparisionTime": "-6.05%",
+    "tasksCompleted": 9,
+    "averageAgreementScore": "66.67%"
+  },
+  {
+    "userId": "Cx121",
+    "averageLeadTime": "50.41s",
+    "averageComparisionTime": "-2.93%",
+    "tasksCompleted": 12,
+    "averageAgreementScore": "75.00%"
+  },
+  {
+    "userId": "zkyxz",
+    "averageLeadTime": "51.48s",
+    "averageComparisionTime": "-0.87%",
+    "tasksCompleted": 11,
+    "averageAgreementScore": "86.36%"
+  }
+]

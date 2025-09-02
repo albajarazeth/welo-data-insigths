@@ -1,0 +1,184 @@
+Task ID,Task Data,User ID,Question Key,Response Type,Response
+52536,Container: [Bottle],azEvj,multiple,choices,Yes
+52536,Container: [Bottle],azEvj,distinct,choices,No
+52536,Container: [Bottle],kabTG,multiple,choices,No
+52541,"Departments: [Plastic Raw Materials, Plastic Sheets, Arts, Crafts & Sewing, Occupational Health & Safety Products, Safety Signs & Signals, Patio, Lawn & Garden, Home & Kitchen]",RWIej,multiple,choices,Yes
+52541,"Departments: [Plastic Raw Materials, Plastic Sheets, Arts, Crafts & Sewing, Occupational Health & Safety Products, Safety Signs & Signals, Patio, Lawn & Garden, Home & Kitchen]",RWIej,distinct,choices,No
+52541,"Departments: [Plastic Raw Materials, Plastic Sheets, Arts, Crafts & Sewing, Occupational Health & Safety Products, Safety Signs & Signals, Patio, Lawn & Garden, Home & Kitchen]",RWIej,not_distinct,text,Plastic...
+52541,"Departments: [Plastic Raw Materials, Plastic Sheets, Arts, Crafts & Sewing, Occupational Health & Safety Products, Safety Signs & Signals, Patio, Lawn & Garden, Home & Kitchen]",RWIej,not_distinct_reason,text,Plastic sheets are also plastic raw material
+52541,"Departments: [Plastic Raw Materials, Plastic Sheets, Arts, Crafts & Sewing, Occupational Health & Safety Products, Safety Signs & Signals, Patio, Lawn & Garden, Home & Kitchen]",xpkWQ,multiple,choices,Yes
+52541,"Departments: [Plastic Raw Materials, Plastic Sheets, Arts, Crafts & Sewing, Occupational Health & Safety Products, Safety Signs & Signals, Patio, Lawn & Garden, Home & Kitchen]",xpkWQ,distinct,choices,Yes
+52549,Fashion: [Top Brands],7JMHx,multiple,choices,No
+52549,Fashion: [Top Brands],wcLJ8,multiple,choices,No
+52574,Automotive: [Vehicle Specific Fit],76lWW,multiple,choices,No
+52574,Automotive: [Vehicle Specific Fit],2w04p,multiple,choices,No
+52581,"Condition: [New, Used]",Cx121,multiple,choices,Yes
+52581,"Condition: [New, Used]",Cx121,distinct,choices,Yes
+52581,"Condition: [New, Used]",zkyxz,multiple,choices,Yes
+52581,"Condition: [New, Used]",zkyxz,distinct,choices,Yes
+52594,Beauty: [Premium Brands],76lWW,multiple,choices,No
+52594,Beauty: [Premium Brands],wcLJ8,multiple,choices,No
+52636,"Color: [White, Multi, Blue, Black, Grey, Brown, Red, Pink, Orange, Yellow, Green, Purple, Vilot]",7JMHx,multiple,choices,Yes
+52636,"Color: [White, Multi, Blue, Black, Grey, Brown, Red, Pink, Orange, Yellow, Green, Purple, Vilot]",7JMHx,distinct,choices,No
+52636,"Color: [White, Multi, Blue, Black, Grey, Brown, Red, Pink, Orange, Yellow, Green, Purple, Vilot]",7JMHx,not_distinct,text,"Purple, Vilot"
+52636,"Color: [White, Multi, Blue, Black, Grey, Brown, Red, Pink, Orange, Yellow, Green, Purple, Vilot]",7JMHx,not_distinct_reason,text,"Purple, and Vilot are too similar colors to be distinct"
+52636,"Color: [White, Multi, Blue, Black, Grey, Brown, Red, Pink, Orange, Yellow, Green, Purple, Vilot]",azEvj,multiple,choices,Yes
+52636,"Color: [White, Multi, Blue, Black, Grey, Brown, Red, Pink, Orange, Yellow, Green, Purple, Vilot]",azEvj,distinct,choices,No
+52636,"Color: [White, Multi, Blue, Black, Grey, Brown, Red, Pink, Orange, Yellow, Green, Purple, Vilot]",azEvj,not_distinct,text,"purple,vilot"
+52636,"Color: [White, Multi, Blue, Black, Grey, Brown, Red, Pink, Orange, Yellow, Green, Purple, Vilot]",azEvj,not_distinct_reason,text,Some of the same colors
+52668,"Local Stores: [Fresh, Whole Foods Market]",zkyxz,multiple,choices,Yes
+52668,"Local Stores: [Fresh, Whole Foods Market]",zkyxz,distinct,choices,Yes
+52668,"Local Stores: [Fresh, Whole Foods Market]",RWIej,multiple,choices,Yes
+52668,"Local Stores: [Fresh, Whole Foods Market]",RWIej,distinct,choices,Yes
+52716,"Fashion: [Guchi,louis vuitton]",76lWW,multiple,choices,Yes
+52716,"Fashion: [Guchi,louis vuitton]",76lWW,distinct,choices,Yes
+52716,"Fashion: [Guchi,louis vuitton]",2w04p,multiple,choices,No
+52737,"Fashion: [Our Brands, Premium Brands, Top Brands]",RWIej,multiple,choices,Yes
+52737,"Fashion: [Our Brands, Premium Brands, Top Brands]",RWIej,distinct,choices,Yes
+52744,"Fashion: [Levi, Lululemon]",wcLJ8,multiple,choices,Yes
+52744,"Fashion: [Levi, Lululemon]",wcLJ8,distinct,choices,Yes
+52744,"Fashion: [Levi, Lululemon]",RWIej,multiple,choices,Yes
+52744,"Fashion: [Levi, Lululemon]",RWIej,distinct,choices,Yes
+52755,"Fashion: [Converse, Nike, Adidas]",2w04p,multiple,choices,Yes
+52755,"Fashion: [Converse, Nike, Adidas]",2w04p,distinct,choices,Yes
+52755,"Fashion: [Converse, Nike, Adidas]",wcLJ8,multiple,choices,Yes
+52755,"Fashion: [Converse, Nike, Adidas]",wcLJ8,distinct,choices,No
+52755,"Fashion: [Converse, Nike, Adidas]",wcLJ8,not_distinct,text,Shoes
+52755,"Fashion: [Converse, Nike, Adidas]",wcLJ8,not_distinct_reason,text,All these brands look the same: ugly
+52761,"Condition: [New, Used]",wcLJ8,multiple,choices,Yes
+52761,"Condition: [New, Used]",wcLJ8,distinct,choices,Yes
+52761,"Condition: [New, Used]",xpkWQ,multiple,choices,No
+52771,"Color: [Black, White, Red, Blue, Silver]",zkyxz,multiple,choices,Yes
+52771,"Color: [Black, White, Red, Blue, Silver]",zkyxz,distinct,choices,No
+52771,"Color: [Black, White, Red, Blue, Silver]",7JMHx,multiple,choices,Yes
+52771,"Color: [Black, White, Red, Blue, Silver]",7JMHx,distinct,choices,Yes
+52793,"Sports: [Football, Soccer, Baseball, Cricket]",xpkWQ,multiple,choices,Yes
+52793,"Sports: [Football, Soccer, Baseball, Cricket]",xpkWQ,distinct,choices,No
+52793,"Sports: [Football, Soccer, Baseball, Cricket]",xpkWQ,not_distinct,text,Cricket
+52793,"Sports: [Football, Soccer, Baseball, Cricket]",xpkWQ,not_distinct_reason,text,Not a real sport
+52793,"Sports: [Football, Soccer, Baseball, Cricket]",2w04p,multiple,choices,Yes
+52793,"Sports: [Football, Soccer, Baseball, Cricket]",2w04p,distinct,choices,No
+52793,"Sports: [Football, Soccer, Baseball, Cricket]",2w04p,not_distinct,text,"Football, Soccer"
+52793,"Sports: [Football, Soccer, Baseball, Cricket]",2w04p,not_distinct_reason,text,"Futball, Soccer are the same sport"
+52794,"Electronics: [Samsung, Sony, LG]",azEvj,multiple,choices,Yes
+52794,"Electronics: [Samsung, Sony, LG]",azEvj,distinct,choices,Yes
+52794,"Electronics: [Samsung, Sony, LG]",kabTG,multiple,choices,Yes
+52794,"Electronics: [Samsung, Sony, LG]",kabTG,distinct,choices,Yes
+52795,Books: [Best Sellers],Cx121,multiple,choices,No
+52795,Books: [Best Sellers],xpkWQ,multiple,choices,No
+52796,"Fitness: [Yoga, Running, Jogging, Weightlifting]",Cx121,multiple,choices,Yes
+52796,"Fitness: [Yoga, Running, Jogging, Weightlifting]",Cx121,distinct,choices,Yes
+52796,"Fitness: [Yoga, Running, Jogging, Weightlifting]",2w04p,multiple,choices,Yes
+52796,"Fitness: [Yoga, Running, Jogging, Weightlifting]",2w04p,distinct,choices,No
+52796,"Fitness: [Yoga, Running, Jogging, Weightlifting]",2w04p,not_distinct,text,"Running, Jogging"
+52796,"Fitness: [Yoga, Running, Jogging, Weightlifting]",2w04p,not_distinct_reason,text,Running and Jogging are essentially the same activity
+52796,"Fitness: [Yoga, Running, Jogging, Weightlifting]",Cx121,multiple,choices,Yes
+52796,"Fitness: [Yoga, Running, Jogging, Weightlifting]",Cx121,distinct,choices,Yes
+52797,"Furniture: [Ikea, Ashley, La-Z-Boy]",zkyxz,multiple,choices,Yes
+52797,"Furniture: [Ikea, Ashley, La-Z-Boy]",zkyxz,distinct,choices,Yes
+52797,"Furniture: [Ikea, Ashley, La-Z-Boy]",76lWW,multiple,choices,Yes
+52797,"Furniture: [Ikea, Ashley, La-Z-Boy]",76lWW,distinct,choices,Yes
+52798,Toys: [Trending],xpkWQ,multiple,choices,No
+52798,Toys: [Trending],Cx121,multiple,choices,No
+52799,"Color: [Red, Blue, Beige, Tan, Green]",zkyxz,multiple,choices,Yes
+52799,"Color: [Red, Blue, Beige, Tan, Green]",zkyxz,distinct,choices,No
+52799,"Color: [Red, Blue, Beige, Tan, Green]",zkyxz,not_distinct,text,"Beige, Tan"
+52799,"Color: [Red, Blue, Beige, Tan, Green]",zkyxz,not_distinct_reason,text,Beige and Tan are too similar in color
+52799,"Color: [Red, Blue, Beige, Tan, Green]",kabTG,multiple,choices,Yes
+52799,"Color: [Red, Blue, Beige, Tan, Green]",kabTG,distinct,choices,Yes
+52800,"Appliances: [Refrigerators, Washers, Dryers]",azEvj,multiple,choices,Yes
+52800,"Appliances: [Refrigerators, Washers, Dryers]",azEvj,distinct,choices,Yes
+52800,"Appliances: [Refrigerators, Washers, Dryers]",7JMHx,multiple,choices,Yes
+52800,"Appliances: [Refrigerators, Washers, Dryers]",7JMHx,distinct,choices,Yes
+52801,Pet Supplies: [Top Rated],zkyxz,multiple,choices,No
+52801,Pet Supplies: [Top Rated],76lWW,multiple,choices,No
+52802,"Automotive: [Toyota, Ford, Lincoln, Honda]",7JMHx,multiple,choices,Yes
+52802,"Automotive: [Toyota, Ford, Lincoln, Honda]",7JMHx,distinct,choices,No
+52802,"Automotive: [Toyota, Ford, Lincoln, Honda]",7JMHx,not_distinct,text,"Ford, Lincoln"
+52802,"Automotive: [Toyota, Ford, Lincoln, Honda]",7JMHx,not_distinct_reason,text,Lincoln is a luxury brand under Ford
+52802,"Automotive: [Toyota, Ford, Lincoln, Honda]",wcLJ8,multiple,choices,Yes
+52802,"Automotive: [Toyota, Ford, Lincoln, Honda]",wcLJ8,distinct,choices,Yes
+52803,"Jewelry: [Tiffany, Cartier, Pandora]",wcLJ8,multiple,choices,Yes
+52803,"Jewelry: [Tiffany, Cartier, Pandora]",wcLJ8,distinct,choices,Yes
+52803,"Jewelry: [Tiffany, Cartier, Pandora]",zkyxz,multiple,choices,Yes
+52803,"Jewelry: [Tiffany, Cartier, Pandora]",zkyxz,distinct,choices,Yes
+52804,Grocery: [Organic],76lWW,multiple,choices,No
+52804,Grocery: [Organic],2w04p,multiple,choices,No
+52805,"Fashion: [Jeans, Sweater, Pullover, Jacket]",azEvj,multiple,choices,Yes
+52805,"Fashion: [Jeans, Sweater, Pullover, Jacket]",azEvj,distinct,choices,No
+52805,"Fashion: [Jeans, Sweater, Pullover, Jacket]",azEvj,not_distinct,text,"Sweater, Pullover"
+52805,"Fashion: [Jeans, Sweater, Pullover, Jacket]",azEvj,not_distinct_reason,text,Sweater and Pullover are similar types of clothing
+52805,"Fashion: [Jeans, Sweater, Pullover, Jacket]",xpkWQ,multiple,choices,Yes
+52805,"Fashion: [Jeans, Sweater, Pullover, Jacket]",xpkWQ,distinct,choices,Yes
+52806,"Tools: [DeWalt, Bosch, Makita]",wcLJ8,multiple,choices,Yes
+52806,"Tools: [DeWalt, Bosch, Makita]",wcLJ8,distinct,choices,Yes
+52806,"Tools: [DeWalt, Bosch, Makita]",7JMHx,multiple,choices,Yes
+52806,"Tools: [DeWalt, Bosch, Makita]",7JMHx,distinct,choices,Yes
+52807,Baby: [New Arrivals],azEvj,multiple,choices,No
+52807,Baby: [New Arrivals],zkyxz,multiple,choices,No
+52808,"Electronics: [Laptop, Notebook, Tablet, Desktop]",7JMHx,multiple,choices,Yes
+52808,"Electronics: [Laptop, Notebook, Tablet, Desktop]",7JMHx,distinct,choices,No
+52808,"Electronics: [Laptop, Notebook, Tablet, Desktop]",7JMHx,not_distinct,text,"Laptop, Notebook"
+52808,"Electronics: [Laptop, Notebook, Tablet, Desktop]",7JMHx,not_distinct_reason,text,Laptop and Notebook are synonymous terms
+52808,"Electronics: [Laptop, Notebook, Tablet, Desktop]",Cx121,multiple,choices,Yes
+52808,"Electronics: [Laptop, Notebook, Tablet, Desktop]",Cx121,distinct,choices,Yes
+52809,"Sports: [Tennis, Golf, Swimming]",76lWW,multiple,choices,Yes
+52809,"Sports: [Tennis, Golf, Swimming]",76lWW,distinct,choices,Yes
+52809,"Sports: [Tennis, Golf, Swimming]",Cx121,multiple,choices,Yes
+52809,"Sports: [Tennis, Golf, Swimming]",Cx121,distinct,choices,Yes
+52810,Health: [Vitamins],azEvj,multiple,choices,No
+52810,Health: [Vitamins],xpkWQ,multiple,choices,No
+52811,"Furniture: [Table, Chair, Couch, Sofa]",76lWW,multiple,choices,Yes
+52811,"Furniture: [Table, Chair, Couch, Sofa]",76lWW,distinct,choices,No
+52811,"Furniture: [Table, Chair, Couch, Sofa]",76lWW,not_distinct,text,"Couch, Sofa"
+52811,"Furniture: [Table, Chair, Couch, Sofa]",76lWW,not_distinct_reason,text,Couch and Sofa are interchangeable terms
+52811,"Furniture: [Table, Chair, Couch, Sofa]",2w04p,multiple,choices,Yes
+52811,"Furniture: [Table, Chair, Couch, Sofa]",2w04p,distinct,choices,Yes
+52812,"Beauty: [L'OrÃ©al, Maybelline, EstÃ©e Lauder]",kabTG,multiple,choices,Yes
+52812,"Beauty: [L'OrÃ©al, Maybelline, EstÃ©e Lauder]",kabTG,distinct,choices,Yes
+52812,"Beauty: [L'OrÃ©al, Maybelline, EstÃ©e Lauder]",xpkWQ,multiple,choices,Yes
+52812,"Beauty: [L'OrÃ©al, Maybelline, EstÃ©e Lauder]",xpkWQ,distinct,choices,Yes
+52813,Office: [Stationery],RWIej,multiple,choices,No
+52813,Office: [Stationery],Cx121,multiple,choices,No
+52814,"Outdoor: [Camping, Hiking, Trekking, Fishing]",RWIej,multiple,choices,Yes
+52814,"Outdoor: [Camping, Hiking, Trekking, Fishing]",RWIej,distinct,choices,No
+52814,"Outdoor: [Camping, Hiking, Trekking, Fishing]",RWIej,not_distinct,text,"Hiking, Trekking"
+52814,"Outdoor: [Camping, Hiking, Trekking, Fishing]",RWIej,not_distinct_reason,text,Hiking and Trekking are very similar activities
+52814,"Outdoor: [Camping, Hiking, Trekking, Fishing]",76lWW,multiple,choices,Yes
+52814,"Outdoor: [Camping, Hiking, Trekking, Fishing]",76lWW,distinct,choices,Yes
+52815,"Kitchen: [Cuisinart, KitchenAid, Le Creuset]",2w04p,multiple,choices,Yes
+52815,"Kitchen: [Cuisinart, KitchenAid, Le Creuset]",2w04p,distinct,choices,Yes
+52815,"Kitchen: [Cuisinart, KitchenAid, Le Creuset]",kabTG,multiple,choices,Yes
+52815,"Kitchen: [Cuisinart, KitchenAid, Le Creuset]",kabTG,distinct,choices,Yes
+52816,Gaming: [New Releases],7JMHx,multiple,choices,No
+52816,Gaming: [New Releases],Cx121,multiple,choices,No
+52817,"Fashion: [Shirt, T-Shirt, Pants, Skirt]",xpkWQ,multiple,choices,Yes
+52817,"Fashion: [Shirt, T-Shirt, Pants, Skirt]",xpkWQ,distinct,choices,No
+52817,"Fashion: [Shirt, T-Shirt, Pants, Skirt]",xpkWQ,not_distinct,text,"Shirt, T-Shirt"
+52817,"Fashion: [Shirt, T-Shirt, Pants, Skirt]",xpkWQ,not_distinct_reason,text,Shirt and T-Shirt are too similar in style
+52817,"Fashion: [Shirt, T-Shirt, Pants, Skirt]",Cx121,multiple,choices,Yes
+52817,"Fashion: [Shirt, T-Shirt, Pants, Skirt]",Cx121,distinct,choices,Yes
+52818,"Home: [Rugs, Curtains, Lamps]",azEvj,multiple,choices,Yes
+52818,"Home: [Rugs, Curtains, Lamps]",azEvj,distinct,choices,Yes
+52818,"Home: [Rugs, Curtains, Lamps]",RWIej,multiple,choices,Yes
+52818,"Home: [Rugs, Curtains, Lamps]",RWIej,distinct,choices,Yes
+52819,Music: [Vinyl],Cx121,multiple,choices,No
+52819,Music: [Vinyl],zkyxz,multiple,choices,No
+52820,"Sports: [Cycling, Biking, Running, Swimming]",RWIej,multiple,choices,Yes
+52820,"Sports: [Cycling, Biking, Running, Swimming]",RWIej,distinct,choices,No
+52820,"Sports: [Cycling, Biking, Running, Swimming]",RWIej,not_distinct,text,"Cycling, Biking"
+52820,"Sports: [Cycling, Biking, Running, Swimming]",RWIej,not_distinct_reason,text,Cycling and Biking refer to the same activity
+52820,"Sports: [Cycling, Biking, Running, Swimming]",2w04p,multiple,choices,Yes
+52820,"Sports: [Cycling, Biking, Running, Swimming]",2w04p,distinct,choices,Yes
+52821,"Fashion: [Zara, H&M, Uniqlo]",zkyxz,multiple,choices,Yes
+52821,"Fashion: [Zara, H&M, Uniqlo]",zkyxz,distinct,choices,Yes
+52821,"Fashion: [Zara, H&M, Uniqlo]",RWIej,multiple,choices,Yes
+52821,"Fashion: [Zara, H&M, Uniqlo]",RWIej,distinct,choices,Yes
+52822,Electronics: [Accessories],zkyxz,multiple,choices,No
+52822,Electronics: [Accessories],RWIej,multiple,choices,No
+52823,"Accessories: [Wallet, Billfold, Belt, Hat]",Cx121,multiple,choices,Yes
+52823,"Accessories: [Wallet, Billfold, Belt, Hat]",Cx121,distinct,choices,No
+52823,"Accessories: [Wallet, Billfold, Belt, Hat]",Cx121,not_distinct,text,"Wallet, Billfold"
+52823,"Accessories: [Wallet, Billfold, Belt, Hat]",Cx121,not_distinct_reason,text,Wallet and Billfold are synonyms
+52823,"Accessories: [Wallet, Billfold, Belt, Hat]",RWIej,multiple,choices,Yes
+52823,"Accessories: [Wallet, Billfold, Belt, Hat]",RWIej,distinct,choices,Yes

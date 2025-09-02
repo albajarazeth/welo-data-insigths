@@ -1,0 +1,3764 @@
+[
+  {
+    "id": "52536",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "lead_time": 0,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52536",
+        "completed_by": "ground_truth"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T21:31:28.848000Z",
+        "updated_at": "2025-03-31T21:31:28.848009Z",
+        "lead_time": 28.548,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52536",
+        "completed_by": "azEvj"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "multiple"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T21:13:32.812912Z",
+        "updated_at": "2025-03-31T21:13:32.812923Z",
+        "lead_time": 61.899,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52536",
+        "completed_by": "kabTG"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 50.0,
+    "data": {
+      "selections": "Container: [Bottle]"
+    },
+    "created_at": "2025-03-31T17:56:07.742245Z",
+    "updated_at": "2025-03-31T21:31:28.928646Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52541",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "distinct"
+          },
+          {
+            "type": "text",
+            "value": {
+              "text": [
+                "Plastic..."
+              ]
+            },
+            "from_name": "not_distinct"
+          },
+          {
+            "type": "text",
+            "value": {
+              "text": [
+                "Plastic sheets are also plastic raw material"
+              ]
+            },
+            "from_name": "not_distinct_reason"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T21:44:19.253567Z",
+        "updated_at": "2025-03-31T21:44:19.253575Z",
+        "lead_time": 45.741,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52541",
+        "completed_by": "RWIej"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T21:42:51.401741Z",
+        "updated_at": "2025-03-31T21:42:51.401751Z",
+        "lead_time": 43.723,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52541",
+        "completed_by": "xpkWQ"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 50.0,
+    "data": {
+      "selections": "Departments: [Plastic Raw Materials, Plastic Sheets, Arts, Crafts & Sewing, Occupational Health & Safety Products, Safety Signs & Signals, Patio, Lawn & Garden, Home & Kitchen]"
+    },
+    "created_at": "2025-03-31T17:56:07.742482Z",
+    "updated_at": "2025-03-31T21:44:19.331379Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52549",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "multiple"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T21:57:11.788091Z",
+        "updated_at": "2025-03-31T21:57:11.788107Z",
+        "lead_time": 40.629,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52549",
+        "completed_by": "7JMHx"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "multiple"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T21:56:04.706048Z",
+        "updated_at": "2025-03-31T21:56:04.706064Z",
+        "lead_time": 46.377,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52549",
+        "completed_by": "wcLJ8"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 50.0,
+    "data": {
+      "selections": "Fashion: [Top Brands]"
+    },
+    "created_at": "2025-03-31T17:56:07.742864Z",
+    "updated_at": "2025-03-31T21:57:11.895574Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52574",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "multiple"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T21:56:27.296416Z",
+        "updated_at": "2025-03-31T21:56:27.296426Z",
+        "lead_time": 42.864,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52574",
+        "completed_by": "76lWW"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "multiple"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T21:55:15.711478Z",
+        "updated_at": "2025-03-31T21:55:15.711487Z",
+        "lead_time": 48.411,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52574",
+        "completed_by": "2w04p"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 50.0,
+    "data": {
+      "selections": "Automotive: [Vehicle Specific Fit]"
+    },
+    "created_at": "2025-03-31T17:56:07.744061Z",
+    "updated_at": "2025-03-31T21:56:27.376627Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52581",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "lead_time": 0,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52581",
+        "completed_by": "ground_truth"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T21:30:56.609954Z",
+        "updated_at": "2025-03-31T21:30:56.609964Z",
+        "lead_time": 49.978,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52581",
+        "completed_by": "Cx121"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T21:21:26.745731Z",
+        "updated_at": "2025-03-31T21:21:26.745746Z",
+        "lead_time": 22.951,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52581",
+        "completed_by": "zkyxz"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 50.0,
+    "data": {
+      "selections": "Condition: [New, Used]"
+    },
+    "created_at": "2025-03-31T17:56:07.744392Z",
+    "updated_at": "2025-03-31T21:30:56.699504Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52594",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "multiple"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T21:49:19.988572Z",
+        "updated_at": "2025-03-31T21:49:19.988587Z",
+        "lead_time": 43.896,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52594",
+        "completed_by": "76lWW"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "multiple"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T21:47:39.042548Z",
+        "updated_at": "2025-03-31T21:47:39.042565Z",
+        "lead_time": 91.807,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52594",
+        "completed_by": "wcLJ8"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 50.0,
+    "data": {
+      "selections": "Beauty: [Premium Brands]"
+    },
+    "created_at": "2025-03-31T17:56:07.745043Z",
+    "updated_at": "2025-03-31T21:49:20.125171Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52636",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "distinct"
+          },
+          {
+            "type": "text",
+            "value": {
+              "text": [
+                "Purple, Vilot"
+              ]
+            },
+            "from_name": "not_distinct"
+          },
+          {
+            "type": "text",
+            "value": {
+              "text": [
+                "Purple, and Vilot are too similar colors to be distinct"
+              ]
+            },
+            "from_name": "not_distinct_reason"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:00:04.607360Z",
+        "updated_at": "2025-03-31T22:00:04.607370Z",
+        "lead_time": 45.362,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52636",
+        "completed_by": "7JMHx"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "distinct"
+          },
+          {
+            "type": "text",
+            "value": {
+              "text": [
+                "purple,vilot"
+              ]
+            },
+            "from_name": "not_distinct"
+          },
+          {
+            "type": "text",
+            "value": {
+              "text": [
+                "Some of the same colors"
+              ]
+            },
+            "from_name": "not_distinct_reason"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T21:59:12.174309Z",
+        "updated_at": "2025-03-31T21:59:12.174319Z",
+        "lead_time": 38.801,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52636",
+        "completed_by": "azEvj"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 50.0,
+    "data": {
+      "selections": "Color: [White, Multi, Blue, Black, Grey, Brown, Red, Pink, Orange, Yellow, Green, Purple, Vilot]"
+    },
+    "created_at": "2025-03-31T17:56:07.747080Z",
+    "updated_at": "2025-03-31T22:00:04.687608Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52668",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T21:30:58.501277Z",
+        "updated_at": "2025-03-31T21:30:58.501290Z",
+        "lead_time": 111.586,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52668",
+        "completed_by": "zkyxz"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T21:24:42.143511Z",
+        "updated_at": "2025-03-31T21:24:42.143528Z",
+        "lead_time": 33.938,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52668",
+        "completed_by": "RWIej"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 100.0,
+    "data": {
+      "selections": "Local Stores: [Fresh, Whole Foods Market]"
+    },
+    "created_at": "2025-03-31T17:56:07.748584Z",
+    "updated_at": "2025-03-31T21:30:58.580820Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52716",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "lead_time": 0,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52716",
+        "completed_by": "ground_truth"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T21:42:45.051055Z",
+        "updated_at": "2025-03-31T21:42:45.051064Z",
+        "lead_time": 81.759,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52716",
+        "completed_by": "76lWW"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "multiple"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T21:41:16.180045Z",
+        "updated_at": "2025-03-31T21:41:16.180056Z",
+        "lead_time": 38.896,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52716",
+        "completed_by": "2w04p"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 100.0,
+    "data": {
+      "selections": "Fashion: [Guchi,louis vuitton]"
+    },
+    "created_at": "2025-03-31T17:56:07.750932Z",
+    "updated_at": "2025-03-31T21:42:45.132952Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52737",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:02:54.515830Z",
+        "updated_at": "2025-03-31T22:02:54.515841Z",
+        "lead_time": 41.727,
+        "result_count": 1,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52737",
+        "completed_by": "RWIej"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 100.0,
+    "data": {
+      "selections": "Fashion: [Our Brands, Premium Brands, Top Brands]"
+    },
+    "created_at": "2025-03-31T17:56:07.751964Z",
+    "updated_at": "2025-03-31T22:02:54.597389Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52744",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T21:59:54.118307Z",
+        "updated_at": "2025-03-31T21:59:54.118317Z",
+        "lead_time": 50.612,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52744",
+        "completed_by": "wcLJ8"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T21:58:29.883396Z",
+        "updated_at": "2025-03-31T21:58:29.883407Z",
+        "lead_time": 50.942,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52744",
+        "completed_by": "RWIej"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 50.0,
+    "data": {
+      "selections": "Fashion: [Levi, Lululemon]"
+    },
+    "created_at": "2025-03-31T17:56:07.752283Z",
+    "updated_at": "2025-03-31T21:59:54.198553Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52755",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T21:49:15.614411Z",
+        "updated_at": "2025-03-31T21:49:15.614429Z",
+        "lead_time": 39.533,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52755",
+        "completed_by": "2w04p"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "distinct"
+          },
+          {
+            "type": "text",
+            "value": {
+              "text": [
+                "Shoes"
+              ]
+            },
+            "from_name": "not_distinct"
+          },
+          {
+            "type": "text",
+            "value": {
+              "text": [
+                "All these brands look the same: ugly"
+              ]
+            },
+            "from_name": "not_distinct_reason"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T21:48:29.645002Z",
+        "updated_at": "2025-03-31T21:48:29.645012Z",
+        "lead_time": 49.941,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52755",
+        "completed_by": "wcLJ8"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 50.0,
+    "data": {
+      "selections": "Fashion: [Converse, Nike, Adidas]"
+    },
+    "created_at": "2025-03-31T17:56:07.752814Z",
+    "updated_at": "2025-03-31T21:49:15.736347Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52761",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T21:52:51.877201Z",
+        "updated_at": "2025-03-31T21:52:51.877224Z",
+        "lead_time": 88.215,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52761",
+        "completed_by": "wcLJ8"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "multiple"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T21:51:05.531180Z",
+        "updated_at": "2025-03-31T21:51:05.531190Z",
+        "lead_time": 61.541,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52761",
+        "completed_by": "xpkWQ"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 50.0,
+    "data": {
+      "selections": "Condition: [New, Used]"
+    },
+    "created_at": "2025-03-31T17:56:07.753142Z",
+    "updated_at": "2025-03-31T21:52:52.028402Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52771",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "lead_time": 0,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52771",
+        "completed_by": "ground_truth"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T21:56:50.893235Z",
+        "updated_at": "2025-03-31T21:56:50.893249Z",
+        "lead_time": 42.341,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52771",
+        "completed_by": "zkyxz"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T21:55:48.989297Z",
+        "updated_at": "2025-03-31T21:55:48.989310Z",
+        "lead_time": 75.973,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52771",
+        "completed_by": "7JMHx"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 50.0,
+    "data": {
+      "selections": "Color: [Black, White, Red, Blue, Silver]"
+    },
+    "created_at": "2025-03-31T17:56:07.753602Z",
+    "updated_at": "2025-03-31T21:56:50.972120Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52793",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "distinct"
+          },
+          {
+            "type": "text",
+            "value": {
+              "text": [
+                "Cricket"
+              ]
+            },
+            "from_name": "not_distinct"
+          },
+          {
+            "type": "text",
+            "value": {
+              "text": [
+                "Not a real sport"
+              ]
+            },
+            "from_name": "not_distinct_reason"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T21:59:00.970828Z",
+        "updated_at": "2025-03-31T21:59:00.970838Z",
+        "lead_time": 76.352,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52793",
+        "completed_by": "xpkWQ"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "distinct"
+          },
+          {
+            "type": "text",
+            "value": {
+              "text": [
+                "Football, Soccer"
+              ]
+            },
+            "from_name": "not_distinct"
+          },
+          {
+            "type": "text",
+            "value": {
+              "text": [
+                "Futball, Soccer are the same sport"
+              ]
+            },
+            "from_name": "not_distinct_reason"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T21:57:36.087584Z",
+        "updated_at": "2025-03-31T21:57:36.087593Z",
+        "lead_time": 43.336,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52793",
+        "completed_by": "2w04p"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 50.0,
+    "data": {
+      "selections": "Sports: [Football, Soccer, Baseball, Cricket]"
+    },
+    "created_at": "2025-03-31T17:56:07.754734Z",
+    "updated_at": "2025-03-31T21:59:01.055989Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52794",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:03:00.123456Z",
+        "updated_at": "2025-03-31T22:03:00.223456Z",
+        "lead_time": 35.672,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52794",
+        "completed_by": "azEvj"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:02:30.654321Z",
+        "updated_at": "2025-03-31T22:02:30.754321Z",
+        "lead_time": 42.891,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52794",
+        "completed_by": "kabTG"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 100.0,
+    "data": {
+      "selections": "Electronics: [Samsung, Sony, LG]"
+    },
+    "created_at": "2025-03-31T17:56:07.755000Z",
+    "updated_at": "2025-03-31T22:03:00.323456Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52795",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "multiple"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:04:00.123456Z",
+        "updated_at": "2025-03-31T22:04:00.223456Z",
+        "lead_time": 28.456,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52795",
+        "completed_by": "Cx121"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "multiple"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:03:30.654321Z",
+        "updated_at": "2025-03-31T22:03:30.754321Z",
+        "lead_time": 50.123,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52795",
+        "completed_by": "xpkWQ"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 100.0,
+    "data": {
+      "selections": "Books: [Best Sellers]"
+    },
+    "created_at": "2025-03-31T17:56:07.756000Z",
+    "updated_at": "2025-03-31T22:04:00.323456Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52796",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:04:30.654321Z",
+        "updated_at": "2025-03-31T22:04:30.754321Z",
+        "lead_time": 45.234,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52796",
+        "completed_by": "Cx121"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "distinct"
+          },
+          {
+            "type": "text",
+            "value": {
+              "text": [
+                "Running, Jogging"
+              ]
+            },
+            "from_name": "not_distinct"
+          },
+          {
+            "type": "text",
+            "value": {
+              "text": [
+                "Running and Jogging are essentially the same activity"
+              ]
+            },
+            "from_name": "not_distinct_reason"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:05:00.123456Z",
+        "updated_at": "2025-03-31T22:05:00.223456Z",
+        "lead_time": 60.789,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52796",
+        "completed_by": "2w04p"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:04:30.654321Z",
+        "updated_at": "2025-03-31T22:04:30.754321Z",
+        "lead_time": 45.234,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52796",
+        "completed_by": "Cx121"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 50.0,
+    "data": {
+      "selections": "Fitness: [Yoga, Running, Jogging, Weightlifting]"
+    },
+    "created_at": "2025-03-31T17:56:07.757000Z",
+    "updated_at": "2025-03-31T22:05:00.323456Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52797",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:06:00.123456Z",
+        "updated_at": "2025-03-31T22:06:00.223456Z",
+        "lead_time": 39.456,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52797",
+        "completed_by": "zkyxz"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:05:30.654321Z",
+        "updated_at": "2025-03-31T22:05:30.754321Z",
+        "lead_time": 47.891,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52797",
+        "completed_by": "76lWW"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 100.0,
+    "data": {
+      "selections": "Furniture: [Ikea, Ashley, La-Z-Boy]"
+    },
+    "created_at": "2025-03-31T17:56:07.758000Z",
+    "updated_at": "2025-03-31T22:06:00.323456Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52798",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "multiple"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:07:00.123456Z",
+        "updated_at": "2025-03-31T22:07:00.223456Z",
+        "lead_time": 33.567,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52798",
+        "completed_by": "xpkWQ"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "multiple"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:06:30.654321Z",
+        "updated_at": "2025-03-31T22:06:30.754321Z",
+        "lead_time": 52.345,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52798",
+        "completed_by": "Cx121"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 100.0,
+    "data": {
+      "selections": "Toys: [Trending]"
+    },
+    "created_at": "2025-03-31T17:56:07.759000Z",
+    "updated_at": "2025-03-31T22:07:00.323456Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52799",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "distinct"
+          },
+          {
+            "type": "text",
+            "value": {
+              "text": [
+                "Beige, Tan"
+              ]
+            },
+            "from_name": "not_distinct"
+          },
+          {
+            "type": "text",
+            "value": {
+              "text": [
+                "Beige and Tan are too similar in color"
+              ]
+            },
+            "from_name": "not_distinct_reason"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:08:00.123456Z",
+        "updated_at": "2025-03-31T22:08:00.223456Z",
+        "lead_time": 65.432,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52799",
+        "completed_by": "zkyxz"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:07:30.654321Z",
+        "updated_at": "2025-03-31T22:07:30.754321Z",
+        "lead_time": 48.901,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52799",
+        "completed_by": "kabTG"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 50.0,
+    "data": {
+      "selections": "Color: [Red, Blue, Beige, Tan, Green]"
+    },
+    "created_at": "2025-03-31T17:56:07.760000Z",
+    "updated_at": "2025-03-31T22:08:00.323456Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52800",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:09:00.123456Z",
+        "updated_at": "2025-03-31T22:09:00.223456Z",
+        "lead_time": 41.234,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52800",
+        "completed_by": "azEvj"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:08:30.654321Z",
+        "updated_at": "2025-03-31T22:08:30.754321Z",
+        "lead_time": 55.678,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52800",
+        "completed_by": "7JMHx"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 100.0,
+    "data": {
+      "selections": "Appliances: [Refrigerators, Washers, Dryers]"
+    },
+    "created_at": "2025-03-31T17:56:07.761000Z",
+    "updated_at": "2025-03-31T22:09:00.323456Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52801",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "multiple"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "lead_time": 0,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52801",
+        "completed_by": "ground_truth"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "multiple"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:10:00.123456Z",
+        "updated_at": "2025-03-31T22:10:00.223456Z",
+        "lead_time": 29.89,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52801",
+        "completed_by": "zkyxz"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "multiple"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:09:30.654321Z",
+        "updated_at": "2025-03-31T22:09:30.754321Z",
+        "lead_time": 46.123,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52801",
+        "completed_by": "76lWW"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 100.0,
+    "data": {
+      "selections": "Pet Supplies: [Top Rated]"
+    },
+    "created_at": "2025-03-31T17:56:07.762000Z",
+    "updated_at": "2025-03-31T22:10:00.323456Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52802",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "distinct"
+          },
+          {
+            "type": "text",
+            "value": {
+              "text": [
+                "Ford, Lincoln"
+              ]
+            },
+            "from_name": "not_distinct"
+          },
+          {
+            "type": "text",
+            "value": {
+              "text": [
+                "Lincoln is a luxury brand under Ford"
+              ]
+            },
+            "from_name": "not_distinct_reason"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:11:00.123456Z",
+        "updated_at": "2025-03-31T22:11:00.223456Z",
+        "lead_time": 70.456,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52802",
+        "completed_by": "7JMHx"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:10:30.654321Z",
+        "updated_at": "2025-03-31T22:10:30.754321Z",
+        "lead_time": 49.234,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52802",
+        "completed_by": "wcLJ8"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 50.0,
+    "data": {
+      "selections": "Automotive: [Toyota, Ford, Lincoln, Honda]"
+    },
+    "created_at": "2025-03-31T17:56:07.763000Z",
+    "updated_at": "2025-03-31T22:11:00.323456Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52803",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:12:00.123456Z",
+        "updated_at": "2025-03-31T22:12:00.223456Z",
+        "lead_time": 43.567,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52803",
+        "completed_by": "wcLJ8"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:11:30.654321Z",
+        "updated_at": "2025-03-31T22:11:30.754321Z",
+        "lead_time": 58.901,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52803",
+        "completed_by": "zkyxz"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 100.0,
+    "data": {
+      "selections": "Jewelry: [Tiffany, Cartier, Pandora]"
+    },
+    "created_at": "2025-03-31T17:56:07.764000Z",
+    "updated_at": "2025-03-31T22:12:00.323456Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52804",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "multiple"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:13:00.123456Z",
+        "updated_at": "2025-03-31T22:13:00.223456Z",
+        "lead_time": 31.234,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52804",
+        "completed_by": "76lWW"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "multiple"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:12:30.654321Z",
+        "updated_at": "2025-03-31T22:12:30.754321Z",
+        "lead_time": 47.89,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52804",
+        "completed_by": "2w04p"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 100.0,
+    "data": {
+      "selections": "Grocery: [Organic]"
+    },
+    "created_at": "2025-03-31T17:56:07.765000Z",
+    "updated_at": "2025-03-31T22:13:00.323456Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52805",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "distinct"
+          },
+          {
+            "type": "text",
+            "value": {
+              "text": [
+                "Sweater, Pullover"
+              ]
+            },
+            "from_name": "not_distinct"
+          },
+          {
+            "type": "text",
+            "value": {
+              "text": [
+                "Sweater and Pullover are similar types of clothing"
+              ]
+            },
+            "from_name": "not_distinct_reason"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:14:00.123456Z",
+        "updated_at": "2025-03-31T22:14:00.223456Z",
+        "lead_time": 62.345,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52805",
+        "completed_by": "azEvj"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:13:30.654321Z",
+        "updated_at": "2025-03-31T22:13:30.754321Z",
+        "lead_time": 50.456,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52805",
+        "completed_by": "xpkWQ"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 50.0,
+    "data": {
+      "selections": "Fashion: [Jeans, Sweater, Pullover, Jacket]"
+    },
+    "created_at": "2025-03-31T17:56:07.766000Z",
+    "updated_at": "2025-03-31T22:14:00.323456Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52806",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:15:00.123456Z",
+        "updated_at": "2025-03-31T22:15:00.223456Z",
+        "lead_time": 45.678,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52806",
+        "completed_by": "wcLJ8"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:14:30.654321Z",
+        "updated_at": "2025-03-31T22:14:30.754321Z",
+        "lead_time": 60.234,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52806",
+        "completed_by": "7JMHx"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 100.0,
+    "data": {
+      "selections": "Tools: [DeWalt, Bosch, Makita]"
+    },
+    "created_at": "2025-03-31T17:56:07.767000Z",
+    "updated_at": "2025-03-31T22:15:00.323456Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52807",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "multiple"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:16:00.123456Z",
+        "updated_at": "2025-03-31T22:16:00.223456Z",
+        "lead_time": 32.901,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52807",
+        "completed_by": "azEvj"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "multiple"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:15:30.654321Z",
+        "updated_at": "2025-03-31T22:15:30.754321Z",
+        "lead_time": 49.567,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52807",
+        "completed_by": "zkyxz"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 100.0,
+    "data": {
+      "selections": "Baby: [New Arrivals]"
+    },
+    "created_at": "2025-03-31T17:56:07.768000Z",
+    "updated_at": "2025-03-31T22:16:00.323456Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52808",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "distinct"
+          },
+          {
+            "type": "text",
+            "value": {
+              "text": [
+                "Laptop, Notebook"
+              ]
+            },
+            "from_name": "not_distinct"
+          },
+          {
+            "type": "text",
+            "value": {
+              "text": [
+                "Laptop and Notebook are synonymous terms"
+              ]
+            },
+            "from_name": "not_distinct_reason"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:17:00.123456Z",
+        "updated_at": "2025-03-31T22:17:00.223456Z",
+        "lead_time": 67.234,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52808",
+        "completed_by": "7JMHx"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:16:30.654321Z",
+        "updated_at": "2025-03-31T22:16:30.754321Z",
+        "lead_time": 51.89,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52808",
+        "completed_by": "Cx121"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 50.0,
+    "data": {
+      "selections": "Electronics: [Laptop, Notebook, Tablet, Desktop]"
+    },
+    "created_at": "2025-03-31T17:56:07.769000Z",
+    "updated_at": "2025-03-31T22:17:00.323456Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52809",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "lead_time": 0,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52809",
+        "completed_by": "ground_truth"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:18:00.123456Z",
+        "updated_at": "2025-03-31T22:18:00.223456Z",
+        "lead_time": 47.456,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52809",
+        "completed_by": "76lWW"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:17:30.654321Z",
+        "updated_at": "2025-03-31T22:17:30.754321Z",
+        "lead_time": 62.123,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52809",
+        "completed_by": "Cx121"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 100.0,
+    "data": {
+      "selections": "Sports: [Tennis, Golf, Swimming]"
+    },
+    "created_at": "2025-03-31T17:56:07.770000Z",
+    "updated_at": "2025-03-31T22:18:00.323456Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52810",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "multiple"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:19:00.123456Z",
+        "updated_at": "2025-03-31T22:19:00.223456Z",
+        "lead_time": 34.567,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52810",
+        "completed_by": "azEvj"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "multiple"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:18:30.654321Z",
+        "updated_at": "2025-03-31T22:18:30.754321Z",
+        "lead_time": 50.234,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52810",
+        "completed_by": "xpkWQ"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 100.0,
+    "data": {
+      "selections": "Health: [Vitamins]"
+    },
+    "created_at": "2025-03-31T17:56:07.771000Z",
+    "updated_at": "2025-03-31T22:19:00.323456Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52811",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "distinct"
+          },
+          {
+            "type": "text",
+            "value": {
+              "text": [
+                "Couch, Sofa"
+              ]
+            },
+            "from_name": "not_distinct"
+          },
+          {
+            "type": "text",
+            "value": {
+              "text": [
+                "Couch and Sofa are interchangeable terms"
+              ]
+            },
+            "from_name": "not_distinct_reason"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:20:00.123456Z",
+        "updated_at": "2025-03-31T22:20:00.223456Z",
+        "lead_time": 64.89,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52811",
+        "completed_by": "76lWW"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:19:30.654321Z",
+        "updated_at": "2025-03-31T22:19:30.754321Z",
+        "lead_time": 53.456,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52811",
+        "completed_by": "2w04p"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 50.0,
+    "data": {
+      "selections": "Furniture: [Table, Chair, Couch, Sofa]"
+    },
+    "created_at": "2025-03-31T17:56:07.772000Z",
+    "updated_at": "2025-03-31T22:20:00.323456Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52812",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "lead_time": 0,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52812",
+        "completed_by": "ground_truth"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:21:00.123456Z",
+        "updated_at": "2025-03-31T22:21:00.223456Z",
+        "lead_time": 49.123,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52812",
+        "completed_by": "kabTG"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:20:30.654321Z",
+        "updated_at": "2025-03-31T22:20:30.754321Z",
+        "lead_time": 64.567,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52812",
+        "completed_by": "xpkWQ"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 100.0,
+    "data": {
+      "selections": "Beauty: [L'Or\u00c3\u00a9al, Maybelline, Est\u00c3\u00a9e Lauder]"
+    },
+    "created_at": "2025-03-31T17:56:07.773000Z",
+    "updated_at": "2025-03-31T22:21:00.323456Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52813",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "multiple"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:22:00.123456Z",
+        "updated_at": "2025-03-31T22:22:00.223456Z",
+        "lead_time": 36.234,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52813",
+        "completed_by": "RWIej"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "multiple"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:21:30.654321Z",
+        "updated_at": "2025-03-31T22:21:30.754321Z",
+        "lead_time": 51.89,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52813",
+        "completed_by": "Cx121"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 100.0,
+    "data": {
+      "selections": "Office: [Stationery]"
+    },
+    "created_at": "2025-03-31T17:56:07.774000Z",
+    "updated_at": "2025-03-31T22:22:00.323456Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52814",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "distinct"
+          },
+          {
+            "type": "text",
+            "value": {
+              "text": [
+                "Hiking, Trekking"
+              ]
+            },
+            "from_name": "not_distinct"
+          },
+          {
+            "type": "text",
+            "value": {
+              "text": [
+                "Hiking and Trekking are very similar activities"
+              ]
+            },
+            "from_name": "not_distinct_reason"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:23:00.123456Z",
+        "updated_at": "2025-03-31T22:23:00.223456Z",
+        "lead_time": 66.456,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52814",
+        "completed_by": "RWIej"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:22:30.654321Z",
+        "updated_at": "2025-03-31T22:22:30.754321Z",
+        "lead_time": 54.123,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52814",
+        "completed_by": "76lWW"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 50.0,
+    "data": {
+      "selections": "Outdoor: [Camping, Hiking, Trekking, Fishing]"
+    },
+    "created_at": "2025-03-31T17:56:07.775000Z",
+    "updated_at": "2025-03-31T22:23:00.323456Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52815",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:24:00.123456Z",
+        "updated_at": "2025-03-31T22:24:00.223456Z",
+        "lead_time": 50.567,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52815",
+        "completed_by": "2w04p"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:23:30.654321Z",
+        "updated_at": "2025-03-31T22:23:30.754321Z",
+        "lead_time": 65.234,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52815",
+        "completed_by": "kabTG"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 100.0,
+    "data": {
+      "selections": "Kitchen: [Cuisinart, KitchenAid, Le Creuset]"
+    },
+    "created_at": "2025-03-31T17:56:07.776000Z",
+    "updated_at": "2025-03-31T22:24:00.323456Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52816",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "multiple"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:25:00.123456Z",
+        "updated_at": "2025-03-31T22:25:00.223456Z",
+        "lead_time": 37.89,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52816",
+        "completed_by": "7JMHx"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "multiple"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:24:30.654321Z",
+        "updated_at": "2025-03-31T22:24:30.754321Z",
+        "lead_time": 53.456,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52816",
+        "completed_by": "Cx121"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 100.0,
+    "data": {
+      "selections": "Gaming: [New Releases]"
+    },
+    "created_at": "2025-03-31T17:56:07.777000Z",
+    "updated_at": "2025-03-31T22:25:00.323456Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52817",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "distinct"
+          },
+          {
+            "type": "text",
+            "value": {
+              "text": [
+                "Shirt, T-Shirt"
+              ]
+            },
+            "from_name": "not_distinct"
+          },
+          {
+            "type": "text",
+            "value": {
+              "text": [
+                "Shirt and T-Shirt are too similar in style"
+              ]
+            },
+            "from_name": "not_distinct_reason"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:26:00.123456Z",
+        "updated_at": "2025-03-31T22:26:00.223456Z",
+        "lead_time": 68.123,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52817",
+        "completed_by": "xpkWQ"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:25:30.654321Z",
+        "updated_at": "2025-03-31T22:25:30.754321Z",
+        "lead_time": 55.567,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52817",
+        "completed_by": "Cx121"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 50.0,
+    "data": {
+      "selections": "Fashion: [Shirt, T-Shirt, Pants, Skirt]"
+    },
+    "created_at": "2025-03-31T17:56:07.778000Z",
+    "updated_at": "2025-03-31T22:26:00.323456Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52818",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:27:00.123456Z",
+        "updated_at": "2025-03-31T22:27:00.223456Z",
+        "lead_time": 51.234,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52818",
+        "completed_by": "azEvj"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:26:30.654321Z",
+        "updated_at": "2025-03-31T22:26:30.754321Z",
+        "lead_time": 66.89,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52818",
+        "completed_by": "RWIej"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 100.0,
+    "data": {
+      "selections": "Home: [Rugs, Curtains, Lamps]"
+    },
+    "created_at": "2025-03-31T17:56:07.779000Z",
+    "updated_at": "2025-03-31T22:27:00.323456Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52819",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "multiple"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "lead_time": 0,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52819",
+        "completed_by": "ground_truth"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "multiple"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:28:00.123456Z",
+        "updated_at": "2025-03-31T22:28:00.223456Z",
+        "lead_time": 38.456,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52819",
+        "completed_by": "Cx121"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "multiple"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:27:30.654321Z",
+        "updated_at": "2025-03-31T22:27:30.754321Z",
+        "lead_time": 54.123,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52819",
+        "completed_by": "zkyxz"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 100.0,
+    "data": {
+      "selections": "Music: [Vinyl]"
+    },
+    "created_at": "2025-03-31T17:56:07.780000Z",
+    "updated_at": "2025-03-31T22:28:00.323456Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52820",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "distinct"
+          },
+          {
+            "type": "text",
+            "value": {
+              "text": [
+                "Cycling, Biking"
+              ]
+            },
+            "from_name": "not_distinct"
+          },
+          {
+            "type": "text",
+            "value": {
+              "text": [
+                "Cycling and Biking refer to the same activity"
+              ]
+            },
+            "from_name": "not_distinct_reason"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:29:00.123456Z",
+        "updated_at": "2025-03-31T22:29:00.223456Z",
+        "lead_time": 69.567,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52820",
+        "completed_by": "RWIej"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:28:30.654321Z",
+        "updated_at": "2025-03-31T22:28:30.754321Z",
+        "lead_time": 56.234,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52820",
+        "completed_by": "2w04p"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 50.0,
+    "data": {
+      "selections": "Sports: [Cycling, Biking, Running, Swimming]"
+    },
+    "created_at": "2025-03-31T17:56:07.781000Z",
+    "updated_at": "2025-03-31T22:29:00.323456Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52821",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:30:00.123456Z",
+        "updated_at": "2025-03-31T22:30:00.223456Z",
+        "lead_time": 52.89,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52821",
+        "completed_by": "zkyxz"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:29:30.654321Z",
+        "updated_at": "2025-03-31T22:29:30.754321Z",
+        "lead_time": 67.456,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52821",
+        "completed_by": "RWIej"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 100.0,
+    "data": {
+      "selections": "Fashion: [Zara, H&M, Uniqlo]"
+    },
+    "created_at": "2025-03-31T17:56:07.782000Z",
+    "updated_at": "2025-03-31T22:30:00.323456Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52822",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "multiple"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:31:00.123456Z",
+        "updated_at": "2025-03-31T22:31:00.223456Z",
+        "lead_time": 39.123,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52822",
+        "completed_by": "zkyxz"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "multiple"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:30:30.654321Z",
+        "updated_at": "2025-03-31T22:30:30.754321Z",
+        "lead_time": 55.567,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52822",
+        "completed_by": "RWIej"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 100.0,
+    "data": {
+      "selections": "Electronics: [Accessories]"
+    },
+    "created_at": "2025-03-31T17:56:07.783000Z",
+    "updated_at": "2025-03-31T22:31:00.323456Z",
+    "total_annotations": 2
+  },
+  {
+    "id": "52823",
+    "annotations": [
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "distinct"
+          },
+          {
+            "type": "text",
+            "value": {
+              "text": [
+                "Wallet, Billfold"
+              ]
+            },
+            "from_name": "not_distinct"
+          },
+          {
+            "type": "text",
+            "value": {
+              "text": [
+                "synonyms"
+              ]
+            },
+            "from_name": "not_distinct_reason"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "lead_time": 0,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52823",
+        "completed_by": "ground_truth"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "from_name": "distinct"
+          },
+          {
+            "type": "text",
+            "value": {
+              "text": [
+                "Wallet, Billfold"
+              ]
+            },
+            "from_name": "not_distinct"
+          },
+          {
+            "type": "text",
+            "value": {
+              "text": [
+                "Wallet and Billfold are synonyms"
+              ]
+            },
+            "from_name": "not_distinct_reason"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:32:00.123456Z",
+        "updated_at": "2025-03-31T22:32:00.223456Z",
+        "lead_time": 70.234,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52823",
+        "completed_by": "Cx121"
+      },
+      {
+        "result": [
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "multiple"
+          },
+          {
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "from_name": "distinct"
+          }
+        ],
+        "reviews": [],
+        "was_cancelled": false,
+        "created_at": "2025-03-31T22:31:30.654321Z",
+        "updated_at": "2025-03-31T22:31:30.754321Z",
+        "lead_time": 57.89,
+        "result_count": 2,
+        "last_action": "submitted",
+        "bulk_created": false,
+        "task": "52823",
+        "completed_by": "RWIej"
+      }
+    ],
+    "file_upload": "fe74_input_data.json",
+    "agreement": 50.0,
+    "data": {
+      "selections": "Accessories: [Wallet, Billfold, Belt, Hat]"
+    },
+    "created_at": "2025-03-31T17:56:07.784000Z",
+    "updated_at": "2025-03-31T22:32:00.323456Z",
+    "total_annotations": 2
+  }
+]
